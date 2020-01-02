@@ -22,11 +22,11 @@ blockquote {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	color: #612ecd;
+	color: #ddd;
 }
 
 a,a:hover {
-	color: #612ecd;
+	color: #ff7979;
 	text-decoration: none;
 }
 

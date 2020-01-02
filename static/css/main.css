@@ -1,28 +1,28 @@
 body {
     font-family: "ubuntu", sans-serif;
     font-weight: 400;
-    color: #000000;
+    color: #333;
     line-height: 1.6;
     font-size: 16px;
 }
 
 a, a:hover {
-    color: #612ecd;
+    color: #a00;
     text-decoration: none;
     word-break: break-word;
 }
 
 html,button,input,select,textarea {
-    color: black;
+    color: #333;
 }
 
 ::-moz-selection {
-    background: black;
+    background: #b3d4fc;
     text-shadow: none;
 }
 
 ::selection {
-    background: black;
+    background: #b3d4fc;
     text-shadow: none;
 }
 
@@ -66,7 +66,7 @@ blockquote {
     font-size: 1.4rem;
     font-family: Georgia,bitstream charter,serif;
     border-left: 3px solid;
-    border-color: #612ecd;
+    border-color: #a00;
     padding-left: 20px;
 }
 
@@ -80,7 +80,7 @@ blockquote em {
 }
 
 a,a:hover {
-    color: #612ecd;
+    color: #a00;
     text-decoration: none
 }
 
@@ -91,7 +91,7 @@ a:hover {
 h1,h2,h3,h4,h5,h6 {
     font-family: raleway,sans-serif;
     line-height: 1.2;
-    color: #612ecd;
+    color: #333;
     font-weight: 200;
 }
 
@@ -167,7 +167,7 @@ ul {
 }
 
 .site-title a {
-	color: #612ecd;
+	color: #333;
 	text-decoration: none !important;
 }
 
@@ -314,7 +314,7 @@ ul {
     border: 1px solid #a00;
     border-radius: 4px;
     padding: 0px 6px;
-    color: #612ecd;
+    color: #a00;
     line-height: 20px;
     font-size: 12px;
     text-decoration: none;
